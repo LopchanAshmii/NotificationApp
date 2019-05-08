@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291135520648",
+    "firebase_url": "https://notifyapp-cdc11.firebaseio.com",
+    "project_id": "notifyapp-cdc11",
+    "storage_bucket": "notifyapp-cdc11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291135520648:android:feb1dd60fd324d32",
+        "android_client_info": {
+          "package_name": "com.example.dell.notifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291135520648-i994lsrnco8a0a4pc8ok46bkuin8p5cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.notifyapp",
+            "certificate_hash": "3251f88d4b7664ac4d87841f4ca37cf37d46083d"
+          }
+        },
+        {
+          "client_id": "291135520648-s1k2mp2qmlubktlv75rj91o92plcjomg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApogOKvqvam8p2vk451NdpViceMcz269M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291135520648-s1k2mp2qmlubktlv75rj91o92plcjomg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
